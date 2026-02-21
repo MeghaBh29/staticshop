@@ -68,7 +68,7 @@
       "stock": 103,
       "rating": 3.3
     },
-    {
+        {
       "id": "prod-91600325-009",
       "name": "Pro Item 9",
       "category": "sports",
@@ -78,4 +78,97 @@
     },
     {
       "id": "prod-91600325-010",
-      "name": "Basic
+      "name": "Basic Item 10",
+      "category": "electronics",
+      "price": 487.77,
+      "stock": 65,
+      "rating": 1.4
+    },
+    {
+      "id": "prod-91600325-011",
+      "name": "Basic Item 11",
+      "category": "electronics",
+      "price": 180.3,
+      "stock": 68,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-91600325-012",
+      "name": "Basic Item 12",
+      "category": "clothing",
+      "price": 168.08,
+      "stock": 32,
+      "rating": 1
+    },
+    {
+      "id": "prod-91600325-013",
+      "name": "Pro Item 13",
+      "category": "sports",
+      "price": 249.93,
+      "stock": 152,
+      "rating": 2.1
+    },
+    {
+      "id": "prod-91600325-014",
+      "name": "Pro Item 14",
+      "category": "books",
+      "price": 83.24,
+      "stock": 198,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-91600325-015",
+      "name": "Standard Item 15",
+      "category": "home",
+      "price": 365.02,
+      "stock": 65,
+      "rating": 3.3
+    },
+    {
+      "id": "prod-91600325-016",
+      "name": "Standard Item 16",
+      "category": "home",
+      "price": 339.72,
+      "stock": 40,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-91600325-017",
+      "name": "Premium Item 17",
+      "category": "books",
+      "price": 389.47,
+      "stock": 33,
+      "rating": 3.6
+    },
+    {
+      "id": "prod-91600325-018",
+      "name": "Basic Item 18",
+      "category": "books",
+      "price": 27.38,
+      "stock": 151,
+      "rating": 3.3
+    },
+    {
+      "id": "prod-91600325-019",
+      "name": "Premium Item 19",
+      "category": "sports",
+      "price": 235.49,
+      "stock": 126,
+      "rating": 2.6
+    },
+    {
+      "id": "prod-91600325-020",
+      "name": "Premium Item 20",
+      "category": "books",
+      "price": 435.45,
+      "stock": 48,
+      "rating": 4.8
+    }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 3,
+      "inventoryValue": 70610.25
+    }
+  }
+}
